@@ -1,0 +1,2 @@
+C:/Projects/VESIT-Hackathon/Flutter UI/ecomentor/android/app/.cxx/Debug/6r595132/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Projects/VESIT-Hackathon/Flutter UI/ecomentor/android/app/.cxx/Debug/6r595132/armeabi-v7a/CMakeFiles/rebuild_cache.dir

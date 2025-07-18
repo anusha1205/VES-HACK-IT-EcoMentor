@@ -1,0 +1,30 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "news",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "summary", "order": "ASCENDING" },
+        { "fieldPath": "publishedDate", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "news",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "isBookmarked", "order": "ASCENDING" },
+        { "fieldPath": "summary", "order": "ASCENDING" },
+        { "fieldPath": "publishedDate", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "news",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "tags", "arrayConfig": "CONTAINS" },
+        { "fieldPath": "summary", "order": "ASCENDING" },
+        { "fieldPath": "publishedDate", "order": "DESCENDING" }
+      ]
+    }
+  ]
+} 

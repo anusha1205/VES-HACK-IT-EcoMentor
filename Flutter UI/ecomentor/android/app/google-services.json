@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80885841329",
+    "project_id": "ecomentor2025",
+    "storage_bucket": "ecomentor2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80885841329:android:17bbf9bc5ed2cf7c619190",
+        "android_client_info": {
+          "package_name": "com.example.ecomentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGft6J-Fl_ZdRp5FHQ9YatEvBrDkeL4yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
